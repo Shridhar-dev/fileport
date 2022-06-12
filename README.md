@@ -15,9 +15,14 @@ The project is not yet published as a crate, to use it, you must have cargo inst
 
 ## Commands
 
-- Cut/Paste 
+- Copy/Paste 
 ```bash
  $  fileport <FROM_FOLDER_PATH> <TO_FOLDER_PATH>
+```
+
+- Cut/Paste 
+```bash
+ $  fileport <FROM_FOLDER_PATH> <TO_FOLDER_PATH> -x
 ```
 If the TO_FOLDER already exists, then it will delete the existing folder along with its contents and then create a new folder
 
