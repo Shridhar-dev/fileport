@@ -2,8 +2,16 @@
 name = "fileport"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "A CLI tool to transfer your files from one directory to another built with rust 🦀"
+repository = "https://github.com/Shridhar-dev/fileport"
+homepage = "https://github.com/Shridhar-dev/fileport"
+documentation = "https://github.com/Shridhar-dev/fileport"
+categories = ["command-line-utilities", "filesystem"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
 
 [dependencies]
 ansi_term = "0.12.1"
