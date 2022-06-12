@@ -7,10 +7,10 @@
 ![banner](https://picsum.photos/id/174/1200/450)
 
 ## Installation
-The project is not yet published as a crate, to use it, you must have cargo installed. Then you must download the code files and run 
+Make sure you have cargo installed!
 
 ```bash
- $  cargo install --path .
+ $  cargo install fileport
 ```
 
 ## Commands
